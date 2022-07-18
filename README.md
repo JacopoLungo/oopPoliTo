@@ -1,1 +1,2 @@
-# Cartella Esami OOP svolti
+# OOP exams
+This folder contains 
